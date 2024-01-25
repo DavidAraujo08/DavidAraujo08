@@ -1,5 +1,5 @@
 ### Olá eu sou David Araújo 🖐🏾
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/david-ferreira-de-araújo](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/david-ferreira-de-araújo](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
 [![instagran](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAraujo08&show_icons=true&theme=dracula)
