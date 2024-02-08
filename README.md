@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=cRoBt6AZgjc
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br>  
 
-[![DavidAraujo08](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAraujo08)](https://github.com/anuraghazra/github-readme-stats)
+
 
 "Sou apaixonado por tecnologia, a educação poe muda a vida das pessoas atrevés da programação."
 
