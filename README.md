@@ -4,7 +4,7 @@
 
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAraujo08&show_icons=true&theme=dracula)
 
-R https://www.youtube.com/watch?v=cRoBt6AZgjc
+ https://www.youtube.com/watch?v=cRoBt6AZgjc
 
 ## Tecnologia que utilizo no meu dia.
 
